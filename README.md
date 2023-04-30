@@ -194,5 +194,5 @@ public class CreditCardPaymentGateway : IPaymentGateway
 }
 ```
 
-## Issues, Feature Requests or Support
+# Issues, Feature Requests or Support
 Please use the [New Issue](https://github.com/akinbicer/solid-principles/issues/new) button to submit issues, feature requests or support issues directly to me. You can also send an e-mail to akin.bicer@outlook.com.tr.
